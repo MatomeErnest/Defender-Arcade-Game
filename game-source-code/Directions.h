@@ -1,0 +1,8 @@
+#ifndef DIRECTIONS_H
+#define DIRECTIONS_H
+enum Directions
+{
+    UP,D_RIGHTUP,D_LEFTUP,LEFT,RIGHT,DOWN,D_LEFTDOWN,D_RIGHTDOWN
+};
+
+#endif

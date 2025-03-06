@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/fbb4737ce29334b3bde70780007df979/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/455e1f95b80860cd00d38846dc97d3bd/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

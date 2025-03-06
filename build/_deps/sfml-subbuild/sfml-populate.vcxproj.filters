@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\090f46b2836733adead69878ae4b277d\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\455e1f95b80860cd00d38846dc97d3bd\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\fbb4737ce29334b3bde70780007df979\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3633E714-0236-302F-8BF0-A89F476A99A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

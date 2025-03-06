@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\05FF2AE9B08AE05E646AD2A3DD9DC71D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild -BC:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

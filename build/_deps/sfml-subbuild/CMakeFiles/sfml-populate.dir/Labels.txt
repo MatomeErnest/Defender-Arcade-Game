@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/fbb4737ce29334b3bde70780007df979/sfml-populate.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/455e1f95b80860cd00d38846dc97d3bd/sfml-populate-complete.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-build.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-configure.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-download.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-install.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-mkdir.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-patch.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-test.rule
+C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/sfml-subbuild/CMakeFiles/090f46b2836733adead69878ae4b277d/sfml-populate-update.rule

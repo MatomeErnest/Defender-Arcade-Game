@@ -1,0 +1,150 @@
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/tmp/doctest-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/tmp/doctest-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\doctest-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -Dcan_fetch=YES -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/tmp/doctest-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\doctest-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\doctest-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\doctest-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\73A94AE36AB07474B7B7154AE2FBBDD2\DOCTEST-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\User\Desktop\AfterSchool\Repo1\Defender-Arcade-Game\build\_deps\doctest-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\856CE15E8EBBE5D055146A6668364B48\DOCTEST-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/CMakeFiles/Debug/doctest-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/Debug/doctest-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKEFILES\05FF2AE9B08AE05E646AD2A3DD9DC71D\DOCTEST-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\USER\DESKTOP\AFTERSCHOOL\REPO1\DEFENDER-ARCADE-GAME\BUILD\_DEPS\DOCTEST-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild -BC:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild --check-stamp-file C:/Users/User/Desktop/AfterSchool/Repo1/Defender-Arcade-Game/build/_deps/doctest-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
